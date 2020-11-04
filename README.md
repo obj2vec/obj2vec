@@ -34,5 +34,7 @@ II. Свой способ построения эмбеддингов метод
 Знакомство с предметной областью — https://ru.wikipedia.org/wiki/Дистрибутивная_семантика
  
 С чего всё началось — http://www.jmlr.org/papers/v3/bengio03a.html
- 
+
+Efficient Estimation of Word Representations in Vector Space - https://arxiv.org/abs/1301.3781
+
 Как с этим работать — https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb
