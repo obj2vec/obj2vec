@@ -31,6 +31,7 @@ II. Свой способ построения эмбеддингов метод
 
 III. Использование результатов II. как первый слой в контекстно-зависимых моделях
 
+http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 
 
 Литература:
@@ -45,5 +46,9 @@ Efficient Estimation of Word Representations in Vector Space - https://arxiv.org
 
 Примеры с кодом по оцениванию представлений (рагновая корелляция и решение задачи аналогий): https://nlp.gluon.ai/examples/word_embedding_evaluation/word_embedding_evaluation.html
 
+GluonCV and GluonNLP: Deep Learning in
+Computer Vision and Natural Language Processing - https://www.jmlr.org/papers/volume21/19-429/19-429.pdf
+
 Ensembling Context-Free and Context-Dependent Word Representations:
 https://arxiv.org/pdf/2005.06602.pdf
+
