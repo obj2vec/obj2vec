@@ -38,3 +38,5 @@ II. Свой способ построения эмбеддингов метод
 Efficient Estimation of Word Representations in Vector Space - https://arxiv.org/abs/1301.3781
 
 Как с этим работать — https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb
+
+Примеры с кодом по оцениванию представлений (рагновая корелляция и решение задачи аналогий): https://nlp.gluon.ai/examples/word_embedding_evaluation/word_embedding_evaluation.html
