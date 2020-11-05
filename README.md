@@ -44,3 +44,6 @@ Efficient Estimation of Word Representations in Vector Space - https://arxiv.org
 Как с этим работать — https://github.com/akutuzov/webvectors/blob/master/preprocessing/rusvectores_tutorial.ipynb
 
 Примеры с кодом по оцениванию представлений (рагновая корелляция и решение задачи аналогий): https://nlp.gluon.ai/examples/word_embedding_evaluation/word_embedding_evaluation.html
+
+Ensembling Context-Free and Context-Dependent Word Representations:
+https://arxiv.org/pdf/2005.06602.pdf
